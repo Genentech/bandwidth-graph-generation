@@ -1,6 +1,7 @@
 # Bandwidth Restricted Graph Generation
 Repo for generating graphs with restricted graph bandwidth.
 Implemented in python 3.10.
+![overview figure](./figures/overview_fig.png)
 
 ## setup
 Here's how to build the conda environment:
