@@ -1,5 +1,5 @@
 # Bandwidth Restricted Graph Generation
-Repo for generating graphs with restricted graph bandwidth.
+Repo for [Improving Graph Generation by Restricting Graph Bandwidth](https://arxiv.org/abs/2301.10857).
 Implemented in python 3.10.
 ![overview figure](./figures/overview_fig.png)
 
